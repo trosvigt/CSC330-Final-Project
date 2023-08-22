@@ -13,7 +13,7 @@ This project demonstrates an internal testing DSL (domain specific language) wri
 3. Add tests to the group
    - Add a test description
    - Add a test expectation
-4. Repeat steps two through three on the instance created in step one as many tames as you would like
+4. Repeat steps two through three on the instance created in step one as many times as you would like
 5. Run all tests and view results
 
 ## Structure
