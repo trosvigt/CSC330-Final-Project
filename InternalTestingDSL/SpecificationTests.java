@@ -37,7 +37,7 @@ public class SpecificationTests {
 
     // Display final test counts
     System.out.println("---------------------------------------");
-    message = String.format("Final Results: Passed: %s | Failed: %s", passed, testCount - passed);
+    message = String.format("Results: Passed: %s | Failed: %s", passed, testCount - passed);
     System.out.println(message);
   }
 }

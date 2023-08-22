@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 import InternalTestingDSL.SpecificationTests;
 import MathClasses.MyMath;
 import StackClass.MyStack;
